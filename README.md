@@ -1,6 +1,3 @@
-
-# project-c6i7u
-=================================
 # Recurve Arrow Curator
 
 ## A tool to keep track of recurve bow setup and find the best arrows
