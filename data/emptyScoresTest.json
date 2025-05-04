@@ -1,0 +1,74 @@
+{"Loadouts": [
+    {
+        "Bow information": {
+            "name": "1",
+            "length": 72,
+            "draw weight": 23,
+            "draw length": 28,
+            "brace height": 9
+        },
+        "Loadout name": "loadout1",
+        "Arrows": [
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E1"
+            },
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E2"
+            }
+        ]
+    },
+    {
+        "Bow information": {
+            "name": "2",
+            "length": 76,
+            "draw weight": 25,
+            "draw length": 29,
+            "brace height": 10
+        },
+        "Loadout name": "loadout2",
+        "Arrows": [
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E1"
+            },
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E2"
+            }
+        ]
+    },
+    {
+        "Bow information": {
+            "name": "3",
+            "length": 78,
+            "draw weight": 30,
+            "draw length": 27,
+            "brace height": 10.5
+        },
+        "Loadout name": "loadout3",
+        "Arrows": [
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E1"
+            },
+            {
+                "length": 28,
+                "weight": 5,
+                "spine": 600,
+                "label": "E2"
+            }
+        ]
+    }
+]}

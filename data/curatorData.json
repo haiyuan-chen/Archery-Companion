@@ -1,0 +1,145 @@
+{
+    "Loadouts": [{
+        "Bow information": {
+            "name": "sample bow 2",
+            "length": 70,
+            "draw weight": 2,
+            "draw length": 2,
+            "brace height": 2
+        },
+        "Loadout name": "sample loadout",
+        "Arrows": [
+            {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "replaced arrow"
+            },
+            {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 2"
+            },
+            {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 3"
+            }
+        ]
+    }],
+    "Scores": [
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 2"
+            },
+            "Scores": [1]
+        },
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 3"
+            },
+            "Scores": [
+                1,
+                4,
+                6
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 2"
+            },
+            "Scores": [
+                6,
+                10,
+                0
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 3,
+                "weight": 2,
+                "spine": 3,
+                "label": "a2"
+            },
+            "Scores": [5]
+        },
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 3"
+            },
+            "Scores": [
+                4,
+                3,
+                2
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "replaced arrow"
+            },
+            "Scores": [
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                0
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 2,
+                "weight": 4,
+                "spine": 3,
+                "label": "Etwo"
+            },
+            "Scores": [
+                6,
+                10,
+                7,
+                2,
+                1
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 33,
+                "weight": 200,
+                "spine": 500,
+                "label": "arrow 1"
+            },
+            "Scores": [
+                8,
+                6,
+                4
+            ]
+        },
+        {
+            "Arrow": {
+                "length": 3,
+                "weight": 2,
+                "spine": 3,
+                "label": "a3"
+            },
+            "Scores": [6]
+        }
+    ]
+}
