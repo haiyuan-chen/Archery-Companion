@@ -1,4 +1,4 @@
-# Recurve Arrow Curator
+# Archery Companion
 
 ## A tool to keep track of recurve bow setup and find the best arrows
 
